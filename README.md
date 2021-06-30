@@ -1,16 +1,14 @@
-### Hi there 👋
+# Gabriel Castro 😁
 
-<!--
-**gabrielcsg/gabrielcsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 Software developer
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Castro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/gabrielcastrosg/) [![Gmail Badge](https://img.shields.io/badge/-gabrielcssg@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcssg@gmail.com)](mailto:gabrielcssg@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋🏻 Hi, I'm Gabriel! Enthusiast of the world of programming and everything that involves technology.
+
+💻 I'm currently working as a junior developer at Show Tecnologia company and studying computer science at UFAPE.
+
+## :zap: &nbsp; Stacks and skills &nbsp; :zap:
+:computer: NodeJS &nbsp;
+:computer: React Native &nbsp;
+:computer: ReactJS &nbsp;
