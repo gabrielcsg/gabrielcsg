@@ -9,6 +9,7 @@
 💻 I'm currently working as a junior developer at Show Tecnologia company and studying computer science at UFAPE.
 
 ## :zap: &nbsp; Stacks and skills &nbsp; :zap:
-:computer: NodeJS &nbsp;
-:computer: React Native &nbsp;
-:computer: ReactJS &nbsp;
+📱 Android (Kotlin, Java) &nbsp;
+📱 React Native &nbsp;
+💻 NodeJS &nbsp;
+💻 ReactJS &nbsp;
