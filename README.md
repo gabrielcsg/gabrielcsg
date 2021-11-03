@@ -6,7 +6,7 @@
 
 👋🏻 Hi, I'm Gabriel! Enthusiast of the world of programming and everything that involves technology.
 
-💻 I'm currently working as a developer at Show Tecnologia company and studying computer science at UFAPE.
+💻 I'm currently working as a back end developer.
 
 ## :zap: &nbsp; Stacks and skills &nbsp; :zap:
 💻 Node.js &nbsp;
