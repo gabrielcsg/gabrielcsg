@@ -1,9 +1,6 @@
 Hi 👋 My name is Gabriel Castro
 ===============================
 
-Mobile Developer
-----------------
-
 Enthusiast of the world of programming and everything that involves technology.
 
 * 🌍  I'm based in Brazil
