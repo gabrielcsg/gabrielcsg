@@ -2,7 +2,7 @@ Hello 👋
 ===============================
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [gabrielcssg@gmail.com](mailto:gabrielcssg@gmail.com)
+* ✉️  You can contact me at [gabrielcssg@gmail.com](mailto:gabrielcsgdev@gmail.com)
 * 🚀  I'm currently working on [Fasters](http://www.fasters.com.br/)
 * 🧠  I'm learning React Native, Nodejs and Python
 
